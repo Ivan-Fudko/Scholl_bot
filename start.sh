@@ -1,6 +1,6 @@
 #!/bin/bash
 # Exit еар1у оп eppops
-set -еи
+set -eu
 # Python buffeps stdout. Without this, уои won't see what уои print “ in the Activity Logs
 expopt PYTHONUNBUFFERED=true
 # Insta11 Python З virtual env
